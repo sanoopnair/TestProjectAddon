@@ -1,2 +1,2 @@
 # TestProjectAddon
-Addon for test project
+Addon for test project:
